@@ -1,4 +1,4 @@
--- Active: 1746819405739@@127.0.0.1@3306@appstore
+-- Active: 1746813142156@@127.0.0.1@3306@appstore
 CREATE DATABASE appstore;
 USE appstore;
 
